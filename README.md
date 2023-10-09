@@ -10,24 +10,8 @@ Course materials for UMBC Data 606 Capstone class.
 - LinkedIn:  https://www.linkedin.com/in/wcj365/
 - WebEx: https://umbc.webex.com/meet/jaywang
 
-## First Session
-
-- In person on campus
-- Aug 31, Thursday 7:10PM - 9:45PM 
-- Janet & Walter Sondheim 206
-
-## Future Sessions
-
-- Online via [WebEx](https://umbc.webex.com/meet/jaywang)
-- Attendance is required of everyone
-- Email the instructor ahead of time if you are unable to attend
-
 ## Presentation Schedule
 
-https://docs.google.com/spreadsheets/d/1Jc4chY2tpPjYuxZ3xHxrH8l6AFEg2Vri03qVxWD-6qk/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1l93PcnjAvqIapw6Hy5gsUPWsACCBVl--ydAGraWQEs4/edit?usp=sharing
 
-## Class Recordings
-
-- Session 01, August 31.
-  - 
 
